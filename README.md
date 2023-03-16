@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus</h1>
 <h3 align="center">A passionate developer from Germany who just finished Le Wagon coding bootcamp.</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently wokring with **Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
